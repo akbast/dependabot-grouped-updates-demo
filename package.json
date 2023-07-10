@@ -14,7 +14,7 @@
       "@azure/msal-angular": "^3.0.0-alpha.2",
       "@azure/msal-browser": "^3.0.0-alpha.2",
       "rxjs": "~7.8.1",
-      "swagger-ui": "^5.0.0",
+      "swagger-ui": "^5.1.0",
       "tslib": "^2.5.3",
       "zone.js": "~0.13.0"
     },
