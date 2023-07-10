@@ -6,8 +6,6 @@ updates:
       interval: daily
   - package-ecosystem: npm
     directory: /
-    registries:
-      - npm-github
     schedule:
       interval: daily
     open-pull-requests-limit: 15
