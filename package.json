@@ -22,7 +22,7 @@
       "@angular-devkit/build-angular": "^16.0.4",
       "@angular/cli": "~16.0.4",
       "@angular/compiler-cli": "^16.0.4",
-      "@openapitools/openapi-generator-cli": "^2.6.0",
+      "@openapitools/openapi-generator-cli": "^2.7.0",
       "@types/jasmine": "~4.3.2",
       "@types/swagger-ui": "^3.52.0",
       "copyfiles": "^2.4.1",
